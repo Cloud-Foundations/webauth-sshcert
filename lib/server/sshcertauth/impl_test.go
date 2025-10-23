@@ -493,7 +493,7 @@ func TestCleanUpExpiredChallengesAtTime(t *testing.T) {
 		a.pendingChallengeMutex.Unlock()
 		if pendingLen != expectedLen {
 			errstr := fmt.Sprintf("unexpected len=%d i=%d, expected=%d", pendingLen, i, expectedLen)
-			t.Fatalf(errstr)
+			t.Fatalf("%s", errstr)
 		}
 	}
 }
