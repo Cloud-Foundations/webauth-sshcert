@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cviecco/webauth-sshcert/lib/cryptoutil"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/cryptoutil"
 	"golang.org/x/crypto/ssh"
 )
 

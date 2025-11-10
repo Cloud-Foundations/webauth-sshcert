@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cviecco/webauth-sshcert/lib/server/sshcertauth"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/server/sshcertauth"
 	//"golang.org/x/crypto/ssh"
 )
 

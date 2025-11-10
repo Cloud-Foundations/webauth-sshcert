@@ -9,7 +9,7 @@ import (
 	"net/http/cookiejar"
 	"time"
 
-	"github.com/cviecco/webauth-sshcert/lib/client/sshautn"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/client/sshautn"
 	"golang.org/x/net/publicsuffix"
 )
 

@@ -19,8 +19,8 @@ import (
 
 	"github.com/Cloud-Foundations/npipe"
 
-	"github.com/cviecco/webauth-sshcert/lib/cryptoutil"
-	"github.com/cviecco/webauth-sshcert/lib/server/sshcertauth"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/cryptoutil"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/server/sshcertauth"
 )
 
 func (s *SSHAuthenticator) loggerPrintf(level uint, format string, v ...interface{}) {

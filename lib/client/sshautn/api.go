@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/crypto/ssh/agent"
 
-	"github.com/cviecco/webauth-sshcert/lib/server/sshcertauth"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/server/sshcertauth"
 )
 
 // SSHAuthenticator is the master struct with private fields to handle the authentication
