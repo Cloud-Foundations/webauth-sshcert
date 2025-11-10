@@ -1,4 +1,4 @@
-module github.com/cviecco/webauth-sshcert
+module github.com/Cloud-Foundations/webauth-sshcert
 
 go 1.24.0
 
