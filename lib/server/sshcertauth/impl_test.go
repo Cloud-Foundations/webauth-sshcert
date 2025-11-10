@@ -22,7 +22,7 @@ import (
 
 	"golang.org/x/crypto/ssh"
 
-	"github.com/cviecco/webauth-sshcert/lib/cryptoutil"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/cryptoutil"
 )
 
 // ssh-keygen -f /tmp/deleteme_rsa

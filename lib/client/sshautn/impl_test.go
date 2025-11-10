@@ -13,7 +13,7 @@ import (
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 
-	"github.com/cviecco/webauth-sshcert/lib/server/sshcertauth"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/server/sshcertauth"
 )
 
 func generateNewTestSignerAndCert(t *testing.T) (ssh.Signer, ssh.Certificate, interface{}) {

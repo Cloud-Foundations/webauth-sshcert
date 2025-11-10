@@ -12,8 +12,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/cviecco/webauth-sshcert/lib/client/sshautn"
-	"github.com/cviecco/webauth-sshcert/lib/server/sshcertauth"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/client/sshautn"
+	"github.com/Cloud-Foundations/webauth-sshcert/lib/server/sshcertauth"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 	"golang.org/x/net/publicsuffix"
